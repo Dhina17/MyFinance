@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="io.github.dhina17.template">
+    package="io.github.dhina17.justmyfinance">
 
     <application
         android:name=".App"
