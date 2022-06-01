@@ -7,4 +7,7 @@
     <string name="expense_text">Expense</string>
     <string name="debt_text">Debt</string>
     <string name="lend_text">Lend</string>
+
+    <!-- List -->
+    <string name="entries_list_title_text">Activities</string>
 </resources>
